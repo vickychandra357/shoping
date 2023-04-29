@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/shoping/static/css/main.f839833d.css",
+    "main.js": "/shoping/static/js/main.e3214c66.js",
+    "static/media/Logo.jpg": "/shoping/static/media/Logo.52dc6d62ec6cc2c4288e.jpg",
+    "index.html": "/shoping/index.html",
+    "main.f839833d.css.map": "/shoping/static/css/main.f839833d.css.map",
+    "main.e3214c66.js.map": "/shoping/static/js/main.e3214c66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f839833d.css",
+    "static/js/main.e3214c66.js"
+  ]
+}
